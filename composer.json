@@ -1,0 +1,25 @@
+{
+    "name": "cuimingxing/mention-effect-tools",
+    "description": "mention effect tools",
+    "authors": [
+        {
+            "name": "崔明星",
+            "email": "15638276200@163.com"
+        }
+    ],
+    "type": "library",
+    "license": "propritary",
+    "minimum-stability": "dev",
+    "require": {},
+    "aotoload": {
+        "psr-4": {
+            "Cmx\\Mention\\Effect\\Tools": "src/"
+        },
+        "files": [
+            "src\\Helper\\helper.php"
+        ]
+    }
+}
+
+
+
