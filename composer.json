@@ -8,7 +8,7 @@
         }
     ],
     "type": "library",
-    "license": "propritary",
+    "license": "proprietary",
     "minimum-stability": "dev",
     "require": {},
     "aotoload": {
